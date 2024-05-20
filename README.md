@@ -11,4 +11,4 @@ SampleSelection_fin - Selects spiral galaxies within the MaNGA sample
 <br />
 <br />Subsamples - Plots the difference in the stellar mass excess trends in different galaxy types
 <br />
-<br />
+<br />Arm_Interarm_Tutorial - Tutorial on how to run most of the pipeline in other codes given here.
